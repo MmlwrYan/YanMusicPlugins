@@ -1,0 +1,15 @@
+{
+  "name": "echo-plugin-apple-music-style",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild src/index.js --bundle --format=esm --target=chrome120 --outfile=index.js"
+  },
+  "dependencies": {
+    "@applemusic-like-lyrics/core": "^0.5.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.1"
+  }
+}

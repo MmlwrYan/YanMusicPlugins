@@ -1,0 +1,12 @@
+{
+  "id": "mv-enhancer",
+  "name": "MV 功能优化",
+  "version": "1.0.3",
+  "description": "在 MV 页面横向展示歌曲的全部视频版本，优先播放最高画质的 H.265 片源。",
+  "author": "Codex Sol",
+  "icon": "icon.svg",
+  "main": "index.js",
+  "capabilities": {
+    "kugouApi": true
+  }
+}

@@ -1,0 +1,44 @@
+MIT License
+
+Copyright (c) 2026 hoowhoami (original EchoMusicPlugins repository)
+Copyright (c) 2026 MmlwrYan (YanMusicPlugins: index rebuild and mirrored third-party plugins)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+THIRD-PARTY EXCEPTIONS - this repository is NOT uniformly MIT:
+
+1. apple-music-lyrics/
+   Distributed under AGPL-3.0-only because it bundles @applemusic-like-lyrics/core.
+   See apple-music-lyrics/LICENSE and apple-music-lyrics/NOTICE.md.
+
+2. third-party/T-T2333/github-accelerator/
+   Distributed under GPL-3.0. See third-party/T-T2333/github-accelerator/LICENSE
+   and third-party/T-T2333/github-accelerator/NOTICE.
+
+3. third-party/oneday5799/EchoMusicPlugins/
+   MIT (Copyright (c) 2026 hoowhoami). See third-party/oneday5799/EchoMusicPlugins/LICENSE.
+
+4. third-party/venti1112/echo_music-blue_archive-theme/
+   MIT. See third-party/venti1112/echo_music-blue_archive-theme/LICENSE.
+
+Full provenance, per-plugin license verdicts and the list of upstream entries that
+were deliberately NOT mirrored (their source repositories carry no license) are
+recorded in THIRD-PARTY.md.

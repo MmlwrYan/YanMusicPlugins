@@ -1,0 +1,514 @@
+{
+  "name": "YanMusic 插件源",
+  "homepage": "https://github.com/MmlwrYan/YanMusicPlugins",
+  "plugins": [
+    {
+      "id": "example-plugin",
+      "tags": [
+        "demo",
+        "lyrics",
+        "floating-window",
+        "now-playing"
+      ],
+      "path": "example-plugin",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/example-plugin",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "water-lyrics",
+      "tags": [
+        "appearance",
+        "lyrics",
+        "lyric-page",
+        "animation"
+      ],
+      "path": "water-lyrics",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/water-lyrics",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "apple-music-lyrics",
+      "tags": [
+        "appearance",
+        "lyrics",
+        "lyric-effects",
+        "animation"
+      ],
+      "path": "apple-music-lyrics",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/apple-music-lyrics",
+      "licenseStatus": "licensed",
+      "license": "AGPL-3.0-only"
+    },
+    {
+      "id": "page-motion",
+      "tags": [
+        "appearance",
+        "page-transition",
+        "animation"
+      ],
+      "path": "page-motion",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/page-motion",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "scroll-assistant",
+      "tags": [
+        "navigation",
+        "scroll",
+        "productivity"
+      ],
+      "path": "scroll-assistant",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/scroll-assistant",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "cover-fallback",
+      "tags": [
+        "appearance",
+        "cover",
+        "mini-player"
+      ],
+      "path": "cover-fallback",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/cover-fallback",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "lyric-info-scroll",
+      "tags": [
+        "lyrics",
+        "player-bar",
+        "mini-player"
+      ],
+      "path": "lyric-info-scroll",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/lyric-info-scroll",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "spectrum-visualizer",
+      "tags": [
+        "audio",
+        "spectrum",
+        "player-bar",
+        "mini-player",
+        "lyrics"
+      ],
+      "path": "spectrum-visualizer",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/spectrum-visualizer",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "openrgb",
+      "tags": [
+        "audio",
+        "spectrum",
+        "openrgb",
+        "lighting"
+      ],
+      "path": "openrgb",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/openrgb",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "mv-enhancer",
+      "tags": [
+        "mv",
+        "video",
+        "quality"
+      ],
+      "path": "mv-enhancer",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/mv-enhancer",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "playback-control-order",
+      "tags": [
+        "player",
+        "appearance",
+        "customization",
+        "sidebar"
+      ],
+      "path": "playback-control-order",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/playback-control-order",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "webdav-backup",
+      "tags": [
+        "backup",
+        "restore",
+        "webdav",
+        "sync"
+      ],
+      "path": "webdav-backup",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/webdav-backup",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "webdav-music",
+      "tags": [
+        "audio-source",
+        "webdav",
+        "cloud-music"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/webdav-music",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/webdav-music",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "echomusic-vinyl-rotation",
+      "tags": [
+        "appearance",
+        "lyrics",
+        "cover"
+      ],
+      "path": "echomusic-vinyl-rotation",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/echomusic-vinyl-rotation",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "Lyrics-bridge",
+      "tags": [
+        "WinIsland",
+        "lyrics",
+        "server"
+      ],
+      "repo": "https://github.com/EchoMusic-org/Lyrics-bridge",
+      "homepage": "https://github.com/EchoMusic-org/Lyrics-bridge",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "echo-miuix-plugin",
+      "tags": [
+        "appearance",
+        "miuix",
+        "theme"
+      ],
+      "repo": "https://github.com/SkyShadowHero/echo-miuix-plugin",
+      "homepage": "https://github.com/SkyShadowHero/echo-miuix-plugin",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "echo-liquid-glass",
+      "tags": [
+        "appearance",
+        "liquidglass",
+        "theme"
+      ],
+      "repo": "https://github.com/SkyShadowHero/echo-liquid-glass",
+      "homepage": "https://github.com/SkyShadowHero/echo-liquid-glass",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "taskbar-lyric",
+      "tags": [
+        "floating-window",
+        "lyrics",
+        "lyric-effects"
+      ],
+      "repo": "https://github.com/yaoyaoprincess/taskbar-lyric",
+      "homepage": "https://github.com/yaoyaoprincess/taskbar-lyric",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "plugin-panel",
+      "tags": [
+        "plugin-panel"
+      ],
+      "repo": "https://github.com/yaoyaoprincess/plugin-panel",
+      "homepage": "https://github.com/yaoyaoprincess/plugin-panel",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "cover-color-lyric",
+      "tags": [
+        "appearance",
+        "lyrics",
+        "lyric-effects",
+        "cover"
+      ],
+      "repo": "https://github.com/rinnki-L/cover-color-lyric",
+      "homepage": "https://github.com/rinnki-L/cover-color-lyric",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "custom-icon",
+      "tags": [
+        "appearance",
+        "icons",
+        "splash-screen"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/custom-icon",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/custom-icon",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "echo_music-blue_archive-theme",
+      "tags": [
+        "theme",
+        "beautify"
+      ],
+      "path": "third-party/venti1112/echo_music-blue_archive-theme",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/venti1112/echo_music-blue_archive-theme",
+      "originRepo": "https://github.com/venti1112/echo_music-blue_archive-theme",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "echo-local-simple",
+      "tags": [
+        "local"
+      ],
+      "repo": "https://github.com/SkyShadowHero/echo-local-simple",
+      "homepage": "https://github.com/SkyShadowHero/echo-local-simple",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "Record-player",
+      "tags": [
+        "beautify"
+      ],
+      "repo": "https://github.com/EchoMusic-org/Record-player",
+      "homepage": "https://github.com/EchoMusic-org/Record-player",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "channel-wander",
+      "tags": [
+        "wander"
+      ],
+      "repo": "https://github.com/EchoMusic-org/channel-wander",
+      "homepage": "https://github.com/EchoMusic-org/channel-wander",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "player-frontend",
+      "tags": [
+        "player",
+        "lyrics"
+      ],
+      "repo": "https://github.com/EchoMusic-org/player-frontend",
+      "homepage": "https://github.com/EchoMusic-org/player-frontend",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "old-xiami-lyric-styles",
+      "tags": [
+        "appearance",
+        "lyrics",
+        "lyric-effects"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/old-xiami-lyric-styles",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/old-xiami-lyric-styles",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "vertical-lyric-scroll",
+      "tags": [
+        "lyrics",
+        "floating-window",
+        "appearance"
+      ],
+      "path": "vertical-lyric-scroll",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/vertical-lyric-scroll",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "folia-style",
+      "tags": [
+        "player",
+        "lyrics",
+        "lyric-effects",
+        "folia"
+      ],
+      "repo": "https://github.com/EchoMusic-org/folia-style",
+      "homepage": "https://github.com/EchoMusic-org/folia-style",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "apple-music-style",
+      "tags": [
+        "player",
+        "lyrics",
+        "lyric-effects",
+        "appearance"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/apple-music-style",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/apple-music-style",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "cloud-priority",
+      "tags": [
+        "player",
+        "now-playing"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/cloud-priority",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/cloud-priority",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "tingfm-radio",
+      "tags": [
+        "radio",
+        "fm"
+      ],
+      "repo": "https://github.com/EchoMusic-org/tingfm-radio",
+      "homepage": "https://github.com/EchoMusic-org/tingfm-radio",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "echo-remote",
+      "tags": [
+        "remote-control",
+        "webui"
+      ],
+      "repo": "https://github.com/yuanqian108/echo-remote",
+      "homepage": "https://github.com/yuanqian108/echo-remote",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "taskbar-lyric-with-spectrum-visualizer",
+      "tags": [
+        "floating-window",
+        "lyrics",
+        "lyric-effects",
+        "audio",
+        "spectrum",
+        "player-bar",
+        "mini-player",
+        "lyrics"
+      ],
+      "path": "taskbar-lyric-with-spectrum-visualizer",
+      "repo": "https://github.com/easy-to-notice/Scripts",
+      "homepage": "https://github.com/easy-to-notice/Scripts/tree/main/taskbar-lyric-with-spectrum-visualizer",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    },
+    {
+      "id": "auto-team-vip",
+      "tags": [
+        "auto",
+        "claim",
+        "team",
+        "vip"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/auto-team-vip",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/auto-team-vip",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "settings-simplifier",
+      "tags": [
+        "settings",
+        "simplify",
+        "ui",
+        "appearance"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/settings-simplifier",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/settings-simplifier",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "mouse-gesture",
+      "tags": [
+        "gesture",
+        "mouse",
+        "productivity",
+        "player"
+      ],
+      "path": "third-party/oneday5799/EchoMusicPlugins/mouse-gesture",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/oneday5799/EchoMusicPlugins/mouse-gesture",
+      "originRepo": "https://github.com/oneday5799/EchoMusicPlugins",
+      "licenseStatus": "licensed",
+      "license": "MIT"
+    },
+    {
+      "id": "github-accelerator",
+      "tags": [
+        "network",
+        "accelerator",
+        "update",
+        "plugin-marketplace"
+      ],
+      "path": "third-party/T-T2333/github-accelerator",
+      "repo": "https://github.com/MmlwrYan/YanMusicPlugins",
+      "homepage": "https://github.com/MmlwrYan/YanMusicPlugins/tree/main/third-party/T-T2333/github-accelerator",
+      "originRepo": "https://github.com/T-T2333/github-accelerator",
+      "licenseStatus": "licensed",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "music-card-share",
+      "tags": [
+        "share"
+      ],
+      "repo": "https://github.com/EchoMusic-org/music-card-share",
+      "homepage": "https://github.com/EchoMusic-org/music-card-share",
+      "licenseStatus": "unlicensed",
+      "mirrored": false
+    }
+  ]
+}

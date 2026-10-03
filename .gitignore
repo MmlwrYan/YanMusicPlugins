@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+*/node_modules/
+**/node_modules/
+.planning/
+
+# 组装/导入用的临时下载目录（一次性脚本的中间产物，不入库）
+.dl/
+
+# 插件自身的构建/缓存产物
+dist/
+*.log
