@@ -1,7 +1,7 @@
 # YanMusicPlugins
 
-YanMusic 在线插件源。本仓库由 [hoowhoami/EchoMusicPlugins](https://github.com/hoowhoami/EchoMusicPlugins)（MIT）派生并重建，
-作为 YanMusic 的**默认官方插件源**。
+YanMusic 在线插件源。
+YanMusic 的**默认官方插件源**。
 
 在 YanMusic 的「插件管理 → 插件源」中使用：
 
